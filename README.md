@@ -2,6 +2,10 @@
 
 This project provides an almost minimal configuration to start using Quarto with Molten in Neovim.
 
+If you find my work helpful or enjoyable, and you’d like to support what I do, your kindness would mean a lot.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/walkingshamrock)
+
 ## Test Environment
 
 - macOS Sequoia 15.3.1
