@@ -8,7 +8,9 @@ The support will encourage me a lot to keep the project active, create other pro
 
 ## Purpose
 
-This project aims to address a common issue faced by macOS users when working with Quarto projects in Neovim: displaying images using the `image.nvim` plugin. Many users encounter difficulties in getting images to render properly within the Neovim editor on macOS. This configuration provides a streamlined setup to resolve these issues, ensuring a smoother experience for those working with Quarto projects and interactive content in Neovim.
+This project aims to address a common issue faced by macOS users when working with Quarto projects in Neovim: displaying images using the `image.nvim` plugin. Many users encounter difficulties rendering images properly within the Neovim editor on macOS. This configuration provides a streamlined setup to resolve these issues, ensuring a smoother experience for those working with Quarto projects and interactive content in Neovim.
+
+I sincerely hope that those struggling to display images in Neovim with Quarto projects can easily set up their Quarto environment and dedicate more time to what truly matters to them.
 
 ## Test Environment
 
@@ -21,7 +23,7 @@ This project aims to address a common issue faced by macOS users when working wi
     Please install the repo in the `~/.config/nvim-whatever` directory.
 
     ```sh
-    git clone https://github.com/yourusername/nvim-quarto-setup.git ~/.config/nvim-whatever
+    git clone https://github.com/walkingshamrock/nvim-quarto-setup.git ~/.config/nvim-whatever
     ```
 
 2. Open Neovim:
